@@ -119,10 +119,10 @@ To support fast filtering, clean cross-table relationships, and scalable DAX cal
 shopeasy-marketing-analytics/
 ├── README.md
 ├── Dashboard Screenshots/
-│   ├── Dashboard-1.png
-│   ├── Dashboard-2.png
-│   ├── Dashboard-3.png
-│   └── Dashboard-4.jpg
+│   ├── Dashboard - 1.png
+│   ├── Dashboard - 2.png
+│   ├── Dashboard - 3.png
+│   └── Dashboard - 4.jpg
 ├── PowerBI Report/
 │   ├── Dashbaord.pbix
 │   └── Dashboard - 2025.pdf
@@ -131,7 +131,7 @@ shopeasy-marketing-analytics/
 │   ├── ShopEasy_Marketing_Analytics_Business_Case.pptx
 │   └── ShopEasy_Marketing_Data_Presentation.pptx
 ├── Python/
-│   └── ShopEasy.py
+│   └── ShopEasy.ipynb
 ├── SQL/
 │   ├── dim_customers.sql
 │   ├── dim_products.sql
